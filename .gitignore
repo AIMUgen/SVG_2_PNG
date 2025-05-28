@@ -1,0 +1,33 @@
+# Configuration files with sensitive data
+app_settings.json
+user_api_keys.json
+
+# Shortcuts
+main.py - Shortcut.lnk
+*.lnk
+
+# Gallery folder
+SVG gallery/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
